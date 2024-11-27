@@ -1,0 +1,31 @@
+ html,body{
+  background-color: black;
+ }
+ h2{
+  font-size: 100px;
+  color: #fff;
+ }
+ p{
+  font-size: 50px;
+  color: #ff009d;
+ }
+ i,b{
+  color: #fff;
+ }
+ span{
+  color: #0ff;
+ }
+ br{
+color: 5d00ff;
+ }
+ span{
+  font-size: 50px;
+  color: rgb(255, 0, 234);
+ }
+ h3{
+  font-size: 100px;
+  color: #00f;
+ }
+ rb{
+  color: #0f0;
+ }
